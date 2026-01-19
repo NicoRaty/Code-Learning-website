@@ -9,7 +9,7 @@ learn web development and JavaScript.
 
 ---
 
-## 🚀 Features
+## Features
 - Embedded CodeMirror code-editor for challenges
 - Instructions for each challenge
 - Progress tracker
@@ -19,11 +19,11 @@ learn web development and JavaScript.
 
 ---
 
-## 🛠 Installation / Setup
+## Installation / Setup
 Run index.html in a preferred browser, not deployed as of now
 
-### ⚡ Prerequisites
+### Prerequisites
 A web browser.
 
-###  📚 Resources used
+### Resources used
 - CodeMirror Extensible Code Editor https://codemirror.net/
